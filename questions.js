@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "The Wars are justified
+        "question": "The Wars are justified.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -45,16 +45,16 @@ questions = [
         }
     },
     {
-        "question": "courage lcahsion.",
+        "question": "The Anarcho Capitalism is not a real Anarchy.",
         "effect": {
-            "econ": 5,
+            "econ": 10,
             "dipl": 0,
-            "govt": 0,
+            "govt": 10,
             "scty": 0
         }
     },
     {
-        "question": "Rent should be abolished.",
+        "question": "El Anarchism with laws is not a real Anarchism.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,16 +63,7 @@ questions = [
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "I preefer the Anarcho Communism than an Anarcho Capitalism.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,74 +72,83 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Government intervention should be initiated rarely if ever.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Materialism is a poison in society.",
+        "question": "Being real, I'm not an anarchist xd.",
         "effect": {
             "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Guns should be bought instead of given to workers.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Mutualism is simply anarcho-capitalism disguised as socialism.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Religious Anarchism would be that the government was the church, and that is not anarchism.",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "The Transhumanism is bad.",
+        "effect": {
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
             "scty": -10
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "Nazism is not bad, it is the socialism that is inside.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
+            "econ": -10,
+            "dipl": -10,
+            "govt": -10,
+            "scty": -10
+        }
+    },
+    {
+        "question": "If all drugs were banned, everything would be more peaceful.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": -10,
+            "scty": -5
+        }
+    },
+    {
+        "question": "If there was no border restriction, everything would be ideal.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 5,
             "scty": 0
         }
     },
     {
-        "question": "The United Nations is a positive for the world.",
+        "question": "the one who has asked the previous question, has a serious mental problem.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Nations are simply social constructs that distract us from real issues.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
+            "dipl": -30,
+            "govt": -15,
             "scty": 0
         }
     },
