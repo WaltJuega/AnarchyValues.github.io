@@ -1,15 +1,6 @@
 questions = [
     {
-        "question": "Private property should be defended.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The right of peaceful protest shall never be infringed upon.",
+        "question": "We need a basic laws.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -18,19 +9,28 @@ questions = [
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "Egoism is bad.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "I love a Market system.",
         "effect": {
             "econ": -10,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Welfare should be cut or completely abolished to cut government spending",
+        "question": "The Wars are justified
         "effect": {
-            "econ": 10,
-            "dipl": 0,
+            "econ": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -40,12 +40,12 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 0,
+            "govt": 5,
             "scty": 0
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "courage lcahsion.",
         "effect": {
             "econ": 5,
             "dipl": 0,
