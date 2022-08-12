@@ -504,7 +504,7 @@ ideologies = [
         }
     },
     {
-        "name": "Nilssonian
+        "name": "Nilssonian",
         "stats": {
             "econ": 0,
             "dipl": 0,
@@ -522,7 +522,7 @@ ideologies = [
         }
     },
     {
-        "name": "Philosophical
+        "name": "Philosophical",
         "stats": {
             "econ": 0,
             "dipl": 50,  
@@ -531,7 +531,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "Capitalism",
         "stats": {
             "econ": 0,
             "dipl": 50,
