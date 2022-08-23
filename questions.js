@@ -4,7 +4,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -13,15 +13,15 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 10,
+            "govt": -5,
             "scty": 0
         }
     },
     {
-        "question": "I love a Market system.",
+        "question": "I love a Market System.",
         "effect": {
             "econ": -10,
-            "dipl": 10,
+            "dipl": 5,
             "govt": 0,
             "scty": 0
         }
@@ -30,7 +30,7 @@ questions = [
         "question": "The Wars are justified.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -40,7 +40,7 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 5,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -49,12 +49,12 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 10,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "El Anarchism with laws is not a real Anarchism.",
+        "question": "Im Collective.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -72,16 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Being real, I'm not an anarchist xd.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Guns should be bought instead of given to workers.",
+        "question": "I hate a Communism System.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -90,21 +81,30 @@ questions = [
         }
     },
     {
-        "question": "Mutualism is simply anarcho-capitalism disguised as socialism.",
+        "question": "Guns should be buyed in a Free Market.",
         "effect": {
-            "econ": 10,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Religious Anarchism would be that the government was the church, and that is not anarchism.",
+        "question": "Feminism doesn´t Work.",
         "effect": {
-            "econ": 10,
-            "dipl": 10,
+            "econ": -10,
+            "dipl": -10,
+            "govt": 0,
+            "scty": -5
+        }
+    },
+    {
+        "question": "The Free Territory was a fake Anarchy.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
             "govt": 10,
-            "scty": 10
+            "scty": 5
         }
     },
     {
@@ -122,7 +122,7 @@ questions = [
             "econ": -10,
             "dipl": -10,
             "govt": -10,
-            "scty": -10
+            "scty": -5
         }
     },
     {
@@ -155,8 +155,8 @@ questions = [
     {
         "question": "individualism is inferior to collectivism or communitarianism.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
+            "econ": 10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -166,7 +166,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": 0,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -180,43 +180,43 @@ questions = [
         }
     },
     {
-        "question": "I support International Military alliances such as CSTO, NATO etc.",
+        "question": "I support NATO.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Wars do not need to be justified to other countries.",
-        "effect": {
-            "econ": 0,
+            "econ": -10,
             "dipl": -10,
-            "govt": 0,
-            "scty": 0
+            "govt": -10,
+            "scty": -10
         }
     },
     {
-        "question": "State sponsored media is preferable to independent or corporate media.",
+        "question": "The Anarcho Communism is the real Anarchy.",
         "effect": {
-            "econ": 0,
+            "econ": 10,
             "dipl": 0,
-            "govt": -5,
-            "scty": 0
-        }
-    },
-    {
-        "question": "My Nation should be free to decide its own future.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Every opinion is equal and should be looked as such by society.",
+        "question": "I support a Public use.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The State is nessesary.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": -15,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Every opinion is equal.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -225,20 +225,20 @@ questions = [
         }
     },
     {
-        "question": "Regional unions such as the European Union are Desirable.",
+        "question": "I support the European Union.",
         "effect": {
-            "econ": 0,
+            "econ": 5,
             "dipl": 10,
-            "govt": 0,
-            "scty": 0
+            "govt": -5,
+            "scty": 5
         }
     },
     {
-        "question": "Autarky is a sensible form of economics.",
+        "question": "Autarky is The Best Option.",
         "effect": {
-            "econ": 2,
+            "econ": 5,
             "dipl": -5,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -248,11 +248,11 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": 10
         }
     },
     {
-        "question": "Religious revival is necessary for society.",
+        "question": "Religion it´s necessary for society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -265,12 +265,12 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -5,
             "scty": -10
         }
     },
     {
-        "question": "The police is a group of bandits that are only there to protect the status quo.",
+        "question": "The police its necesary.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -279,20 +279,20 @@ questions = [
         }
     },
     {
-        "question": "We should focus on rehabilitation instead of punishment for our jail system.",
+        "question": "I´m Anarchist.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 20,
             "scty": 0
         }
     },
     {
-        "question": "The French Revolution was more of a negative for our world then anything.",
+        "question": "The French Revolution was negative.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
+            "econ": -10,
+            "dipl": 10,
+            "govt": -10,
             "scty": -10
         }
     },
@@ -310,7 +310,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -324,16 +324,7 @@ questions = [
         }
     },
     {
-        "question": "There's no such thing as a victimless crime, all crimes have victims including drug use.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Freedom of Speech in regards to the law is a human right.",
+        "question": "I´m Satanist.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,9 +333,18 @@ questions = [
         }
     },
     {
+        "question": "The Market Socialism its Completely Good.",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
         "question": "A hierarchical state is best.",
         "effect": {
-            "econ": 0,
+            "econ": -15,
             "dipl": 0,
             "govt": -10,
             "scty": 0
@@ -360,16 +360,7 @@ questions = [
         }
     },
     {
-        "question": "If well compensated, eminent domain (the taking of property) is acceptable.",
-        "effect": {
-            "econ": 2,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Political Diversity (Multi-Party system, Panarchy etc) should be removed and opposed.",
+        "question": "Eminent domain is acceptable.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -378,21 +369,30 @@ questions = [
         }
     },
     {
-        "question": "We need to establish an Aristocratic-style of government to defend tradition.",
+        "question": "I´m Antifash.",
+        "effect": {
+            "econ": 5,
+            "dipl": 20,
+            "govt": 10,
+            "scty": 5
+        }
+    },
+    {
+        "question": "We need to establish an a Dictatorial System of government to defend tradition.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -2,
+            "govt": -10,
             "scty": -10
         }
     },
     {
-        "question": "Degeneracy is a real problem that we shouldn't take lightly.",
+        "question": "Etnic Nationalism is a real problem that we shouldn't take lightly.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "dipl": 10,
+            "govt": 5,
+            "scty": 5
         }
     },
     {
@@ -416,32 +416,32 @@ questions = [
     {
         "question": "The practice of animal testing should be banned.",
         "effect": {
-            "econ": 2,
+            "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": -5
         }
     },
     {
         "question": "Women need to reject traditionalism as an abusive policy.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": 0,
+            "dipl": 5,
+            "govt": 10,
             "scty": 10
         }
     },
     {
         "question": "Either the state or the community should have regulations to protect the environment.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": 0,
+            "dipl": 10,
+            "govt": -10,
+            "scty": 10
         }
     },
     {
-        "question": "Opposition to the (my) system isn't acceptable.",
+        "question": "Opposition to my system isn't acceptable.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -452,10 +452,10 @@ questions = [
     {
         "question": "There's no such thing as equality in the world.",
         "effect": {
-            "econ": 0,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 0
         }
     },
     {
@@ -473,25 +473,25 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The Worst Political Compass Axis is The AuthRight.",
+        "effect": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 10,
             "scty": 10
         }
     },
     {
-        "question": "Cultures always change, focusing too much on them should be avoided.",
+        "question": "Stalin was a little Bit good, Thank Stalin for the Great Purge.",
         "effect": {
-            "econ": 0,
+            "econ": 10,
             "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Drug use should be looked down upon in our Society.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "govt": 5,
+            "scty": 0
         }
     },
     {
@@ -499,7 +499,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": 10,
             "scty": 10
         }
     },
@@ -508,7 +508,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": 10,
             "scty": 10
         }
     },
@@ -517,17 +517,17 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": -10
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "I hate Capitalism.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
+            "econ": 10,
+            "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 0
         }
     },
     {
@@ -535,7 +535,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": -10
         }
     },
@@ -549,11 +549,11 @@ questions = [
         }
     },
     {
-        "question": "I desire a public form of healthcare, either provided by the state or community.",
+        "question": "I desire a public form of healthcareor.",
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 0,
+            "govt": 5,
             "scty": 0
         }
     },
@@ -562,7 +562,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": -10
         }
     },
@@ -587,10 +587,10 @@ questions = [
     {
         "question": "Transhumanism is a valid goal for our society.",
         "effect": {
-            "econ": 0,
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": 20
         }
     },
     {
@@ -599,43 +599,25 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 5
-        }
-    },
-    {
-        "question": "While I care about human life outside of my country, the priority of our government should be our own people.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Tolerance isn't something we should strive for in society as it creates a weak nation.",
+        "question": "Literaly INGSOC.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Homogeneity is necessary to keep order.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "I wish to see massive wealth redistribution.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
+            "econ": -5,
+            "dipl": -30,
+            "govt": -40,
             "scty": 0
+        }
+    },
+    {
+        "question": "Literaly NAZI.",
+        "effect": {
+            "econ": -5,
+            "dipl": -30,
+            "govt": -10,
+            "scty": -10
         }
     },
     {
@@ -653,52 +635,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Wrongful behaviours of companies are caused by governmental regulations.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The patriarchy isn't just real but should be removed.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "The classification of men and women are social constructs.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Vaccinations should be voluntary.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Class is meaningless and is only a term abused by the radical left.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "scty": 1
         }
     },
     {
@@ -714,9 +651,9 @@ questions = [
         "question": "Race is a social construct.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     }
 ];
