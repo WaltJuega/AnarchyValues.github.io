@@ -29,7 +29,7 @@ questions = [
     {
         "question": "The Wars are justified.",
         "effect": {
-            "econ": 0,
+            "econ": 0, 
             "dipl": -10,
             "govt": 0,
             "scty": 0
